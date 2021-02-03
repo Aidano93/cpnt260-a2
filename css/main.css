@@ -27,8 +27,7 @@ p {
   flex-flow: row nowrap;
   justify-content: flex-start;
 
-  background-image: url(../media/images/laura-skinner-brickwall-unsplash.jpg)
-  ;
+  background-image: url(../media/images/laura-skinner-brickwall-unsplash.jpg);
   background-color: #dddecb;
   background-blend-mode: luminosity;
   border-radius: 0.3em;

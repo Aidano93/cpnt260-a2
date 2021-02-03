@@ -13,7 +13,7 @@ The goal of this site is to provide some important information to potential fans
 
 ## Notes:
 
-### Rafactors from A1:
+### Refactors from A1:
 - **Vertcal nav successfully implemented via media query**
 - Added a clamp() for responsive font size throughout
 - Removed cta-button, added additional items to nav and linked them to each section of the page

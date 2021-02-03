@@ -245,7 +245,8 @@ h2 {
 
   width: 30%;
   height: auto;
-  min-width: 10rem;
+  min-width: 15rem;
+  min-height: auto;
   max-width: 100%;
   max-height: 30rem;
 

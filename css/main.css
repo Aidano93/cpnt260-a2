@@ -306,6 +306,8 @@ h2 {
 
 .card {
   display: block;
+
+  margin: 0.5rem 0rem;
 }
 
 .card .profile {

@@ -2,6 +2,9 @@
 
 Aidan O'Reilly
 
+Repo: https://github.com/Aidano93/cpnt260-a2
+
+Github Page: https://aidano93.github.io/cpnt260-a2/
 
 ## Context:
 

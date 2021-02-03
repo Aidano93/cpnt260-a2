@@ -21,7 +21,6 @@ The goal of this site is to provide some important information to potential fans
 - Added a clamp() for responsive font size throughout
 - Removed cta-button, added additional items to nav and linked them to each section of the page
 - **Card section added. Labeled as 'Members'**
-- 
 
 ### Card Section:
 - Certain creative liberties were taken with this section in an attempt to emulate this [image](https://www.facebook.com/sunforgerband/photos/a.1654248918137430/2707730806122564/). Sunforger use it as a press photo and I thought it would be a good challenge to try to recreate it in card form. I understand that it doesn't translate as well on mobile, but I think it works for now. I may add a media query and rearrange the 'crests' in the future.

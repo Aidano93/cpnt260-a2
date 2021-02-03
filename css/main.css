@@ -13,9 +13,7 @@ body {
   background-color: #dddecb;
 
   font-family: Rasa, serif;
-  color: black;
-
-  
+  color: black;  
 }
 
 p {
@@ -184,7 +182,7 @@ main {
 
   margin: 0 1.5rem;
 
-  min-height: 100vh;
+  
 }
 
 .landing {
@@ -247,8 +245,9 @@ h2 {
 
   width: 30%;
   height: auto;
-  min-width: 20rem;
+  min-width: 10rem;
   max-width: 100%;
+  max-height: 30rem;
 
   object-fit: cover;
 

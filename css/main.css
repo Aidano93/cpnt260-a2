@@ -30,7 +30,8 @@ p {
   background-image: url(../media/images/laura-skinner-brickwall-unsplash.jpg);
   background-color: #dddecb;
   background-blend-mode: luminosity;
-  border-radius: 0.3em;
+
+  max-height: fit-content;
 
   padding: 0%;
 }

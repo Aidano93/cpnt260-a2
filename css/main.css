@@ -32,6 +32,7 @@ p {
   background-blend-mode: luminosity;
 
   max-height: max-content;
+  min-height: min-content;
 
   padding: 0%;
 }

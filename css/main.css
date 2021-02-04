@@ -31,7 +31,7 @@ p {
   background-color: #dddecb;
   background-blend-mode: luminosity;
 
-  max-height: fit-content;
+  max-height: max-content;
 
   padding: 0%;
 }
